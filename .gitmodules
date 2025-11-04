@@ -1,0 +1,3 @@
+[submodule "foca_&_afg.py"]
+	path = foca_&_afg.py
+	url = git@github.com:knds-123/foca.py.git
